@@ -1000,6 +1000,7 @@ void ThreadSocketHandler2(void* parg)
 static const char *strDNSSeed[][2] = {
     {"192.81.212.236", "192.81.212.236"},
     {"It's Null", "its.null.rs"},
+    {"Joe's Flippy Floppys", "shoes.cr.rs"},
 
 };
 
