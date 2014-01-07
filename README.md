@@ -31,7 +31,9 @@ which should get you connected to at least a few peers
 
 
 addnode=192.81.212.236, its.null.rs, shoes.cr.rs
+
 server=1
+
 daemon=1
 
 
