@@ -1,23 +1,40 @@
-Written by Joeswhite(majority) and Beastlymac
-
-Shoecoin (CCO)
-
-rpcport= 44222
-
-p2pport= 44223
-
-testnetport=44333
+CCoin
+=======
+CCoin is a decentralized trustless digital peer to peer cryptographic currency based on th
+satoshi client and the litecoin client by charles lee.
 
 
+Who?
+=====
 
-rpcuser=ccoinrpc
+Written by Joeswhite (most clone changes) and Beastlymac
 
-rpcpassword=BuZaDmsiH9qRqmkKkgq9hwxhvR7PRaxntLTQgVcR17xq
+CCoin (CCO)
 
-addnode=192.81.212.236, 185.38.44.104
+What?
+====
+scrypt
+7.5 Billion total coins
+1 minute blocks
+1000 coins per block
+2 hour adjustment time frame
+400% max re-adjust
 
-rpcport=44222
 
+
+Config?
+=====
+To start off the network will not be extremely robust,
+to combat this we have given you the following few lines
+which should get you connected to at least a few peers
+
+
+
+addnode=192.81.212.236, its.null.rs, shoes.cr.rs
 server=1
-
 daemon=1
+
+
+Anything else scammers?
+=======
+Nah, enjoy CCoin
